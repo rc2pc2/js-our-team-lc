@@ -1,0 +1,19 @@
+body{
+    background-color: #f5f5f1;
+}
+
+article.my_card{
+    background-color: white;
+    /* border: 2px solid grey; */
+    /* border-radius: 1rem; */
+}
+
+article img{
+    display: block;
+    width: 100%;
+}
+
+article h3{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
